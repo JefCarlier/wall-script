@@ -10,12 +10,12 @@ Requirements
 ## Install Instructions
 
 This script is OS independend
-`.httacces` included for Apache
+`.httacces` included for Apache and
 `web.config` incuded for IIS
 
-First, clone this repository as you normally would.
+First, clone this repository as you normally would or download tarball.
 
-    $ git clone https://github.com/JefCarlier/wall-script
+    $ git clone https://github.com/JefCarlier/wall-script.git
 
 Next, Upload the contents to a webserver of your choice (Apache or IIS recommeded)
     
